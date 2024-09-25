@@ -1,16 +1,21 @@
-# minimal_chat_app
+# Minimal-Chat-App | [Link to Apk](https://drive.google.com/file/d/14inYAgsFCsC3yib2q2AK0W-N0hN01QGV/view?usp=drive_link)
+![myExpenses](https://github.com/purveshxd/minimal_chat_app/blob/main/media/login-register.png "minimal_chat_app")
 
-A new Flutter project.
 
-## Getting Started
+![myExpenses](https://github.com/purveshxd/minimal_chat_app/blob/f06e0ee1c77b8d55a618a136ed2f615abd922268/media/transactions.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![myExpenses](https://github.com/purveshxd/minimal_chat_app/blob/main/media/login-register-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![myExpenses](https://github.com/purveshxd/minimal_chat_app/blob/main/media/transactions-1.png)
+
+## Features:
+- **Firebase Login:** A chat app with firebase login and register functions.
+- **QR Support:** QR helps user add friend to their list and chat with them, simply scan and chat.
+***
+
+
+
+
+
